@@ -32,7 +32,7 @@ $$
 
 <div style = "text-align:center;">
 	<img src="./maxit.jpg" width=350px/>
-    <img src="n.jpg" width = 350px/>
+    <img src="./n.jpg" width = 350px/>
 </div>
 
 
